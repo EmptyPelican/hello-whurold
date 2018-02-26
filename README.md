@@ -2,5 +2,5 @@
 repostitory
 def meeting(thisMeeting):
   if thisMeeting == "Blows":
-    sys.exit()
+    sys.exit(1)
 meeting(thisMeeting)
